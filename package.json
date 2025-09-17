@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "dependencies": 
 {
-    "com.alexeytaranov.serializereferencedropdown": "1.1.4"
+    https://github.com/AlexeyTaranov/SerializeReferenceDropdown.git#1.0.0
 }
 }
