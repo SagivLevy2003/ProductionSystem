@@ -1,0 +1,9 @@
+{
+  "name": "com.jabbas.production_system",
+  "displayName": "Production System",
+  "version": "1.0.0",
+  "dependencies": 
+{
+    "com.alexeytaranov.serializereferencedropdown": "1.1.4"
+}
+}
